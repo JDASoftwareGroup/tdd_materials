@@ -1,3 +1,6 @@
 [submodule "katas/roman_numerals"]
 	path = katas/roman_numerals
 	url = https://github.com/blue-yonder/tdd_exercise_roman.git
+[submodule "katas/shipping_costs"]
+	path = katas/shipping_costs
+	url = https://github.com/blue-yonder/tdd_exercise_shipping.git
